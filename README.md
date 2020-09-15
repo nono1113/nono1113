@@ -9,10 +9,9 @@
 - 🌱 I’m currently learning PHP.
 - 🌻 Fun fact: yoga🧘, trip abroad🌏, photography📷, cat🐈, wine🍷, sweets🍰
 
-<a href="https://github.com/miho-hamanaka">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miho-hamanaka&count_private=true&show_icons=true" />
+<a href="https://github.com/nono1113">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nono1113&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/miho-hamanaka">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miho-hamanaka" />
+<a href="https://github.com/nono1113">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nono1113" />
 </a>
-
