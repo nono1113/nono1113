@@ -1,9 +1,11 @@
 ### Hi there, I'm Miho Hamanaka 🐈✨✨
 
 - ✨ I’m currently working as a web designer since April 1, 2020.
-- 🖥 start leanring programming & web design in April 1, 2019. 
-     graduated from the 51st TECH::EXPERT class.
-     graduated from the Digital Hollywood STUDIO Shibuya.
+
+- 🖥 Start leanring programming & web design in April 1, 2019. 
+- 🐾 Graduated from the 51st TECH::EXPERT class.
+- 🐾 Graduated from the Digital Hollywood STUDIO Shibuya.
+
 - 🌱 I’m currently learning PHP.
 - 🌻 Fun fact: yoga🧘, trip abroad🌏, photography📷, cat🐈, wine🍷, sweets🍰
 
