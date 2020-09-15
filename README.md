@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Miho Hamanaka 🐈✨✨
 
-<!--
-**nono1113/nono1113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ I’m currently working as a web designer since April 1, 2020.
+- 🖥 start leanring programming & web design in April 1, 2019. 
+     graduated from the 51st TECH::EXPERT class.
+     graduated from the Digital Hollywood STUDIO Shibuya.
+- 🌱 I’m currently learning PHP.
+- 🌻 Fun fact: yoga🧘, trip abroad🌏, photography📷, cat🐈, wine🍷, sweets🍰
 
-Here are some ideas to get you started:
+<a href="https://github.com/miho-hamanaka">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=miho-hamanaka&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/miho-hamanaka">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miho-hamanaka" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
